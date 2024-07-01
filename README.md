@@ -110,7 +110,7 @@ The notebook successfully implements a linear regression model to predict house 
 To run the project, follow these steps:
 
 # Clone the repository:
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/UmairPirzada/PRODIGY_ML_01.git
 
 # Open the Jupyter notebook:
 
